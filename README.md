@@ -1,3 +1,5 @@
+# Moved to [fosscord/fosscord-missing-routes](https://github.com/fosscord/fosscord-missing-routes)
+
 # Fosscord Missing Routes
 
 Generates a list of routes that Fosscord does not implement. Detection may be wonky, but gives a good rough view of things.
